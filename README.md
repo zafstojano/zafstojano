@@ -1,4 +1,4 @@
-I like to train deep neural nets that reason and don't forget.
+I like to train deep neural nets that reason without forgetting.
 
 ## 👨🏻‍🔬 Research Interests
 
