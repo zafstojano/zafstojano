@@ -1,5 +1,7 @@
 I like to train deep neural nets that reason and don't forget.
 
+---
+
 My research interests span:
 
 - **Reinforcement Learning**
@@ -9,7 +11,7 @@ My research interests span:
   - Worked on mitigating catastrophic forgetting in foundation models based on continual weight interpolation, [demonstrating](https://arxiv.org/abs/2211.03186) performance close to the upper bound of jointly training on all data.
 - **Evaluation**
   - Contributed several datasets to EleutherAI’s Evaluation Harness (e.g. [Lambada Translations](https://github.com/EleutherAI/lm-evaluation-harness/pull/1897), [Paloma](https://github.com/EleutherAI/lm-evaluation-harness/pull/1928), [LegalBench](https://github.com/EleutherAI/lm-evaluation-harness/pull/1878)), as well as implemented [higher-is-better indicators](https://github.com/EleutherAI/lm-evaluation-harness/pull/1893) and tests for [output table consistency](https://github.com/EleutherAI/lm-evaluation-harness/pull/1916).
- 
+ ---
 My publications include:
 - <ins>Zafir Stojanovski</ins>, Oliver Stanley*, Joe Sharratt*, Richard Jones*, Abdulhakeem Adefioye, Jean Kaddour, Andreas Köpf: [“Reasoning Gym: Reasoning Environments for RL with Verifiable Rewards”](https://arxiv.org/abs/2505.24760). **<ins>NeurIPS 2025 (Spotlight)</ins>**
 - <ins>Zafir Stojanovski</ins>, Karsten Roth*, Zeynep Akata: [“Momentum-based Weight Interpolation of Strong Zero-Shot Models for Continual Learning”](https://arxiv.org/abs/2211.03186). Interpolate workshop @ **<ins>NeurIPS 2022 (Best Paper Award)</ins>**
