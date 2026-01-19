@@ -3,11 +3,11 @@ I like to train deep neural nets that reason without forgetting.
 ## 👨🏻‍🔬 Research Interests
 
 **Reinforcement Learning**
-- Core contributor of [Reasoning Gym](https://github.com/open-thought/reasoning-gym) where I built dozens of RL environments, as well as ran the zero-shot, external benchmark, and curriculum learning experiments for our publication.
+- Core contributor of [Reasoning Gym](https://github.com/open-thought/reasoning-gym) where I built dozens of RL environments, as well as ran the zero-shot, external benchmark, and curriculum learning experiments for our NeurIPS publication.
 - Wrote several sections of the [RLHF Book](https://rlhfbook.com), where I derived the [policy gradient objective](https://github.com/natolambert/rlhf-book/pull/136) and [Bradley-Terry loss](https://github.com/natolambert/rlhf-book/pull/97), as well as provided intuitions for the [PPO gradient dynamics](https://github.com/natolambert/rlhf-book/pull/139).
 
 **Continual Learning**
-- Worked on mitigating catastrophic forgetting in foundation models based on continual weight interpolation, [demonstrating](https://arxiv.org/abs/2211.03186) performance close to the upper bound of jointly training on all data in our publication.
+- Worked on mitigating catastrophic forgetting in foundation models based on continual weight interpolation, [demonstrating](https://arxiv.org/abs/2211.03186) performance close to the upper bound of jointly training on all data in our NeurIPS workshop publication.
   
 **Evaluation**
 - Contributed several datasets to EleutherAI’s Evaluation Harness (e.g. [Lambada Translations](https://github.com/EleutherAI/lm-evaluation-harness/pull/1897), [Paloma](https://github.com/EleutherAI/lm-evaluation-harness/pull/1928), [LegalBench](https://github.com/EleutherAI/lm-evaluation-harness/pull/1878)), as well as implemented [higher-is-better indicators](https://github.com/EleutherAI/lm-evaluation-harness/pull/1893) and tests for [output table consistency](https://github.com/EleutherAI/lm-evaluation-harness/pull/1916).
