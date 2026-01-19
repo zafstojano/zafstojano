@@ -1,4 +1,4 @@
-I like to train deep neural nets that <ins>reason</ins> and <ins>don't forget</ins>.
+I like to train deep neural nets that reason and don't forget.
 
 My research interests span:
 
