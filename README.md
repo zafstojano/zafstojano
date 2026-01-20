@@ -1,5 +1,3 @@
-I like to train deep neural nets that reason without forgetting.
-
 ## 👨🏻‍🔬 Research Interests
 
 **Reinforcement Learning**
