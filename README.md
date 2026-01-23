@@ -11,8 +11,8 @@
 - Contributed several datasets to EleutherAI’s Evaluation Harness (e.g. [Lambada Translations](https://github.com/EleutherAI/lm-evaluation-harness/pull/1897), [Paloma](https://github.com/EleutherAI/lm-evaluation-harness/pull/1928), [LegalBench](https://github.com/EleutherAI/lm-evaluation-harness/pull/1878)), as well as implemented [higher-is-better indicators](https://github.com/EleutherAI/lm-evaluation-harness/pull/1893) and tests for [output table consistency](https://github.com/EleutherAI/lm-evaluation-harness/pull/1916).
 
 **Healthcare and Life Sciences**
-- Led a team to automate glomerular sclerosis classification from gigapixel kidney biopsies, deployed in a system serving over **65%** of the [Organ Procurement Organizations](https://www.einpresswire.com/article/843275598/loka-supports-specialist-direct-in-expanding-its-market-leading-transplantai-platform) in the US.
-- Part of a team developing models to predict protein-ligand binding affinity from DNA Encoded Library (DEL) data for [drug discovery](https://ir.nurixtx.com/news-releases/news-release-details/nurix-therapeutics-presents-data-aacr-2025-annual-meeting), resulting in numerous **experimentally confirmed** binders in the lab!
+- Led a team to automate glomerular sclerosis classification from gigapixel kidney biopsies, deployed in a system serving over half of the [Organ Procurement Organizations](https://www.einpresswire.com/article/843275598/loka-supports-specialist-direct-in-expanding-its-market-leading-transplantai-platform) in the US.
+- Part of a team developing models to predict protein-ligand binding affinity from DNA Encoded Library (DEL) data for [drug discovery](https://ir.nurixtx.com/news-releases/news-release-details/nurix-therapeutics-presents-data-aacr-2025-annual-meeting), resulting in numerous experimentally confirmed binders in the lab!
 
 ## 📄 Publications
 
