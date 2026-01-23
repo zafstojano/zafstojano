@@ -10,6 +10,10 @@
 **Evaluation**
 - Contributed several datasets to EleutherAI’s Evaluation Harness (e.g. [Lambada Translations](https://github.com/EleutherAI/lm-evaluation-harness/pull/1897), [Paloma](https://github.com/EleutherAI/lm-evaluation-harness/pull/1928), [LegalBench](https://github.com/EleutherAI/lm-evaluation-harness/pull/1878)), as well as implemented [higher-is-better indicators](https://github.com/EleutherAI/lm-evaluation-harness/pull/1893) and tests for [output table consistency](https://github.com/EleutherAI/lm-evaluation-harness/pull/1916).
 
+**Healthcare and Life Sciences**
+- Led a team to automate glomerular sclerosis classification from gigapixel kidney biopsies, deployed in a system serving over **65%** of the [Organ Procurement Organizations](https://www.einpresswire.com/article/843275598/loka-supports-specialist-direct-in-expanding-its-market-leading-transplantai-platform) in the US.
+- Part of a team developing models to predict binding affinity between proteins and ligands from DNA Encoded Library (DEL) data, resulting in **numerous experimentally confirmed** binders in the lab!
+
 ## 📄 Publications
 
 My work is used by AI labs such as DeepMind [[1](https://arxiv.org/abs/2401.12187), [2](https://arxiv.org/abs/2406.16768), [3](https://arxiv.org/abs/2411.15099), [4](https://arxiv.org/abs/2408.14471)], Meta [[5](https://arxiv.org/abs/2212.10445), [6](https://arxiv.org/abs/2306.04488), [7](https://arxiv.org/abs/2508.13141)], NVIDIA [[8](https://arxiv.org/abs/2507.12507), [9](https://arxiv.org/abs/2510.01180)], Mila [[10](https://arxiv.org/abs/2509.26626), [11](https://arxiv.org/abs/2505.24273), [12](https://arxiv.org/abs/2505.14970)], and Prime Intellect [[13](https://www.primeintellect.ai/blog/synthetic-2])]:
