@@ -2,7 +2,7 @@
 
 **Reinforcement Learning**
 - Core contributor of [Reasoning Gym](https://github.com/open-thought/reasoning-gym) where I built dozens of RL environments, as well as ran the zero-shot, external benchmark, and curriculum learning experiments for our NeurIPS publication.
-- Wrote several sections of the [RLHF Book](https://rlhfbook.com), where I derived the [policy gradient objective](https://github.com/natolambert/rlhf-book/pull/136) and [Bradley-Terry loss](https://github.com/natolambert/rlhf-book/pull/97), as well as provided intuitions for the [PPO gradient dynamics](https://github.com/natolambert/rlhf-book/pull/139).
+- Wrote several sections of the [RLHF Book](https://rlhfbook.com), where I derived the [policy gradient objective](https://github.com/natolambert/rlhf-book/pull/136) and [Bradley-Terry loss](https://github.com/natolambert/rlhf-book/pull/97), provided intuitions for the [PPO gradient dynamics](https://github.com/natolambert/rlhf-book/pull/139), and built the foundations of the [code library](https://github.com/natolambert/rlhf-book/pull/219).
 
 **Continual Learning**
 - Worked on mitigating catastrophic forgetting in foundation models based on continual weight interpolation, [demonstrating](https://arxiv.org/abs/2211.03186) performance close to the upper bound of jointly training on all data in our NeurIPS workshop publication.
