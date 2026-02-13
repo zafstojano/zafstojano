@@ -13,7 +13,6 @@
   
 **Model Evaluation**
 - Contributed several datasets to EleutherAI’s Evaluation Harness (e.g. [Lambada Translations](https://github.com/EleutherAI/lm-evaluation-harness/pull/1897), [Paloma](https://github.com/EleutherAI/lm-evaluation-harness/pull/1928), [LegalBench](https://github.com/EleutherAI/lm-evaluation-harness/pull/1878)), as well as implemented [metric indicators](https://github.com/EleutherAI/lm-evaluation-harness/pull/1893) and tests for [output table consistency](https://github.com/EleutherAI/lm-evaluation-harness/pull/1916).
-- Built [Word Game Bench](https://wordgamebench.github.io) – an evaluation suite based on Wordle and Connections – which I ran on the new daily puzzles for several months in 2024 (sponsored by OpenRouter).
 
 ## 📄 Publications
 
