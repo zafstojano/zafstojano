@@ -11,7 +11,7 @@
 -->
 
 🌊 **Continual Learning**
-- Worked on mitigating catastrophic forgetting in foundation models based on continual weight interpolation, demonstrating performance close to the upper bound of jointly training on all data in our [NeurIPS workshop publication]((https://arxiv.org/abs/2211.03186)).
+- Worked on mitigating catastrophic forgetting in foundation models based on continual weight interpolation, demonstrating performance close to the upper bound of jointly training on all data in our [NeurIPS workshop publication](https://arxiv.org/abs/2211.03186).
   
 🔬 **Model Evaluation**
 - Contributed several datasets to EleutherAI’s Evaluation Harness (e.g. [Lambada Translations](https://github.com/EleutherAI/lm-evaluation-harness/pull/1897), [Paloma](https://github.com/EleutherAI/lm-evaluation-harness/pull/1928), [LegalBench](https://github.com/EleutherAI/lm-evaluation-harness/pull/1878)), as well as implemented [metric indicators](https://github.com/EleutherAI/lm-evaluation-harness/pull/1893) and tests for [output table consistency](https://github.com/EleutherAI/lm-evaluation-harness/pull/1916).
