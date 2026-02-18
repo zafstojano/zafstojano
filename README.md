@@ -1,15 +1,17 @@
 ## 👨🏻‍🔬 Research Interests
 
 🎰 **Reinforcement Learning**
-- Core contributor of [Reasoning Gym](https://github.com/open-thought/reasoning-gym) where I built dozens of RL environments, as well as ran the zero-shot, external benchmark, and curriculum learning experiments for our NeurIPS publication.
+- Core contributor of [Reasoning Gym](https://github.com/open-thought/reasoning-gym) where I built dozens of RL environments, as well as ran the zero-shot, external benchmark, and curriculum learning experiments for our [NeurIPS publication]((https://arxiv.org/abs/2505.24760)).
 - Wrote several sections of the [RLHF Book](https://rlhfbook.com), where I derived the [policy gradient](https://github.com/natolambert/rlhf-book/pull/136) and [Bradley-Terry](https://github.com/natolambert/rlhf-book/pull/97) objectives, provided intuitions for the [PPO gradient dynamics](https://github.com/natolambert/rlhf-book/pull/139), and built the foundations of the [code library](https://github.com/natolambert/rlhf-book/pull/219).
 
+<!--
 🧬 **Healthcare and Life Sciences**
 - Led a team to automate glomerular sclerosis classification from gigapixel kidney biopsies, deployed in a system serving over half of the [Organ Procurement Organizations](https://www.einpresswire.com/article/843275598/loka-supports-specialist-direct-in-expanding-its-market-leading-transplantai-platform) in the US.
 - Part of a team developing models to predict protein-ligand binding affinity from DNA Encoded Library (DEL) data for [drug discovery](https://ir.nurixtx.com/news-releases/news-release-details/nurix-therapeutics-presents-data-aacr-2025-annual-meeting), resulting in numerous experimentally confirmed binders in the lab!
+-->
 
 🌊 **Continual Learning**
-- Worked on mitigating catastrophic forgetting in foundation models based on continual weight interpolation, [demonstrating](https://arxiv.org/abs/2211.03186) performance close to the upper bound of jointly training on all data in our NeurIPS workshop publication.
+- Worked on mitigating catastrophic forgetting in foundation models based on continual weight interpolation, demonstrating performance close to the upper bound of jointly training on all data in our [NeurIPS workshop publication]((https://arxiv.org/abs/2211.03186)).
   
 🔬 **Model Evaluation**
 - Contributed several datasets to EleutherAI’s Evaluation Harness (e.g. [Lambada Translations](https://github.com/EleutherAI/lm-evaluation-harness/pull/1897), [Paloma](https://github.com/EleutherAI/lm-evaluation-harness/pull/1928), [LegalBench](https://github.com/EleutherAI/lm-evaluation-harness/pull/1878)), as well as implemented [metric indicators](https://github.com/EleutherAI/lm-evaluation-harness/pull/1893) and tests for [output table consistency](https://github.com/EleutherAI/lm-evaluation-harness/pull/1916).
