@@ -1,7 +1,7 @@
 ## 👨🏻‍🔬 Research Interests
 
 🎰 **Reinforcement Learning**
-- Core contributor of [Reasoning Gym](https://github.com/open-thought/reasoning-gym) where I built dozens of RL environments, as well as ran the zero-shot, external benchmark, and curriculum learning experiments for our [NeurIPS publication]((https://arxiv.org/abs/2505.24760)).
+- Core contributor of [Reasoning Gym](https://github.com/open-thought/reasoning-gym) where I built dozens of RL environments, as well as ran the zero-shot, external benchmark, and curriculum learning experiments for our [NeurIPS publication](https://arxiv.org/abs/2505.24760).
 - Wrote several sections of the [RLHF Book](https://rlhfbook.com), where I derived the [policy gradient](https://github.com/natolambert/rlhf-book/pull/136) and [Bradley-Terry](https://github.com/natolambert/rlhf-book/pull/97) objectives, provided intuitions for the [PPO gradient dynamics](https://github.com/natolambert/rlhf-book/pull/139), and built the foundations of the [code library](https://github.com/natolambert/rlhf-book/pull/219).
 
 <!--
