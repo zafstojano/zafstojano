@@ -5,6 +5,7 @@ I'm interested in system-2 thinking, catastrophic forgetting, and fair evals.
 
 - 🏋🏻‍♀️ [Reasoning Gym](https://github.com/open-thought/reasoning-gym) – RL environments for reasoning models.
 - 📚 [RLHF Book](https://rlhfbook.com) – An introduction to RLHF and post-training.
+- 📈 [Policy Gradients](https://github.com/zafstojano/policy-gradients) - Minimal hackable implementation of policy gradient methods.
 - 🔬 [Language Model Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
 
 ## 📄 Publications
