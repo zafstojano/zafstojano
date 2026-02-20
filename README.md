@@ -8,6 +8,7 @@ I'm interested in system-2 thinking, catastrophic forgetting, and fair evals.
 - 🔬 [Language Model Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness) - A framework for few-shot evaluation of language models.
 - 📈 [Policy Gradients](https://github.com/zafstojano/policy-gradients) – Minimal hackable implementation of policy gradient methods.
 - 🏒 [Laser Hockey](https://github.com/anticdimi/laser-hockey) – Winning entry for an RL tournament in laser hockey.
+- 📖 [ML Interview Q&A](https://github.com/zafstojano/ml-interview-questions-and-answers) – Booklet with popular questions and answers for ML interviews.
 
 ## 📄 Publications
 
