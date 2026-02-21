@@ -9,8 +9,9 @@ I have contributed to the following open-source repositories:
 - 📚 [RLHF Book](https://github.com/natolambert/rlhf-book) – An introduction to RLHF and post-training.
 - 🔬 [Language Model Evaluation Harness](https://github.com/EleutherAI/lm-evaluation-harness) – A framework for few-shot evaluation of LLMs.
 - 📈 [Policy Gradients](https://github.com/zafstojano/policy-gradients) – Minimal hackable implementation of policy gradient methods.
+- 🌍 [OpenEnv](https://github.com/meta-pytorch/OpenEnv) – An interface library for RL post training with environments.
 - 🏒 [Laser Hockey](https://github.com/anticdimi/laser-hockey) – Winning entry for an RL tournament in laser hockey.
-- 👾 [Word Game Bench](https://github.com/zafstojano/wordgamebench?tab=readme-ov-file) – Evaluating LLMs on Wordle and Connections.
+- 👾 [Word Game Bench](https://github.com/zafstojano/wordgamebench) – Evaluating LLMs on Wordle and Connections.
 - 📖 [ML Interview Q&A](https://github.com/zafstojano/ml-interview-questions-and-answers) – Booklet with popular questions and answers for ML interviews.
 
 ## 📄 Publications
