@@ -16,6 +16,5 @@ I have contributed to the following open-source repositories:
 
 ## 📄 Publications
 
-My work is used by AI labs such as DeepMind, Meta, and NVIDIA:
 - 🏋🏻 [Reasoning Gym: Reasoning Environments for RL with Verifiable Rewards](https://arxiv.org/abs/2505.24760) – **NeurIPS (Spotlight)**
 - 🌊 [Momentum-based Weight Interpolation for Continual Learning](https://arxiv.org/abs/2211.03186) – Interpolate @ **NeurIPS (Best Paper Award)**
